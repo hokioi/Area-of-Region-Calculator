@@ -5,6 +5,8 @@ This is a fairly rudimental code, mostly built in snippets copy and pasted from 
 
 How it works: 
 
+-Screenshot an image, (intended use is for google earth, but it doesn't really matter)
+
 -Select the image you are using with files (will open automatically) 
 
 -Select either pixel to distance scale, or if you want to work out the distance (if you don't already know) 
